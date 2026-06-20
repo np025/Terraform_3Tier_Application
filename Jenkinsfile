@@ -73,7 +73,7 @@ pipeline {
     post {
 
         success {
-            echo 'Azure Infrastructure Created Successfully'
+            echo 'Azure Infrastructure Created Successfully!!!!'
         }
 
         failure {
